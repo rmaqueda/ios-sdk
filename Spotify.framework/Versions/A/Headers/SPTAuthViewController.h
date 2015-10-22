@@ -1,4 +1,4 @@
-/*
+/*
  Copyright 2015 Spotify AB
 
  Licensed under the Apache License, Version 2.0 (the "License");
@@ -16,7 +16,7 @@
 
 #import <UIKit/UIKit.h>
 #import <Foundation/Foundation.h>
-#import <Spotify/Spotify.h>
+#import <Spotify-iOS-SDK/Spotify.h>
 
 @class SPTAuthViewController;
 
